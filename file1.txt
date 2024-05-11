@@ -1,2 +1,6 @@
 bhaiii 123
+<<<<<<< HEAD
 123
+=======
+12345
+>>>>>>> ad9bee68dd1dc014ba5255bf23cdf13c524a51ff
